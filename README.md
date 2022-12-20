@@ -1,2 +1,2 @@
-# Algorithms-cpp
+# Algorithms-Studying
 Studying algorithms with backjoon, ...
