@@ -1,2 +1,2 @@
 # Algorithms-Studying
-Studying algorithms with backjoon, ...
+Studying algorithms with backjoon, programmers
