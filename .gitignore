@@ -1,2 +1,6 @@
 ## execute file
 cpp/*.out
+
+## temp codes
+tempCode/
+tempCode/*
