@@ -1,6 +1,7 @@
 ## execute file
-cpp/*.out
-
+*.out
+*.exe
 ## temp codes
 tempCode/
 tempCode/*
+
