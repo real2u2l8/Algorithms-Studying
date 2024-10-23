@@ -1,3 +1,5 @@
+//버블 정렬 구현 
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
