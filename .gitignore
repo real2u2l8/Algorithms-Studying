@@ -1,6 +1,7 @@
 ## execute file
 *.out
 *.exe
+**/build
 ## temp codes
 tempCode/
 tempCode/*
